@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+    font-family: "spritecoder";
+    src: url("../fonts/spritecoder_regular.ttf");
+  }
+
+  h1 {
+    font-family: "spritecoder";
+    text-align: center;
+    font-size: 5rem;
+    font-weight: lighter;
+  }
+  ul {
+    font-family: "spritecoder";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  header {
+    background: #585fda;
+  }
+  .brain {
+    width: 50rem;
+    height: 40rem;
+    display: flex;
+    
+  }
