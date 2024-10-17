@@ -62,11 +62,6 @@
     .contact {
       padding-left: 10rem;
     }
-    /*hr {
-      background-color: #fe5f55;
-      width: 121rem;
-      height: 0.3rem;
-    }*/
   
     ul li ul.dropdown li {
       display: block;
@@ -98,3 +93,12 @@
         padding-left: 35%;
         padding-bottom: 10rem;
     }
+    p {
+    font-family: spritecoder;
+    color: #fe5f55;
+    font-weight: lighter;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    padding: 10rem;
+  }
