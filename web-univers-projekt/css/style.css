@@ -62,11 +62,6 @@
   .contact {
     padding-left: 10rem;
   }
-  /*hr {
-    background-color: #fe5f55;
-    width: 121rem;
-    height: 0.3rem;
-  }*/
 
   ul li ul.dropdown li {
     display: block;
@@ -84,13 +79,13 @@
     width: 9.5rem;
   }
   img{
-    display: block; 
-  margin: 0;     
-  padding: 0;    
-  border: 3px solid #fe5f55;
-  width: 100%; 
-  height: 100%;
-  object-fit: cover;
+   display: block; 
+   margin: 0;     
+   padding: 0;    
+   border: 3px solid #fe5f55;
+   width: 100%; 
+   height: 100%;
+   object-fit: cover;
   }
   .brain {
     width: 100rem;
